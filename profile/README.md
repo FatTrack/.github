@@ -25,6 +25,8 @@ Theme : Healthcare
 | M284B4KX1925 | Ikko Cahya Awinata | Machine Learning | [@Mamialezatos](https://github.com/Mamialezatos) | Active |
 | M319B4KY0637 | Arif Adrian | Machine Learning | [@Arif4dr14n](https://github.com/Arif4dr14n) | Active |
 
+</div>
+
 ## Application Result
 <div align="center">
   <img src="" alt="Result App" style="width: 100%;">
