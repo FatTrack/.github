@@ -1,7 +1,7 @@
 # Fat Track - Bangkit Academy Capstone by C242-PS030
 
 <div align="center">
-  <img src="" alt="Fat Track" style="width: 20%;">
+  <img src="https://github.com/FatTrack/.github/blob/main/profile/186835589.png" alt="Fat Track" style="width: 20%;">
   <p></p>
 </div>
 
