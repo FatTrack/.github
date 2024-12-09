@@ -9,7 +9,7 @@
 
 **Fat Track** is an AI-based application that helps users monitor their daily food content by recognizing images of food captured by the user and displaying the nutritional content of the food. Fat Track will display information such as calories, protein, fat, and carbohydrates of the food, which will then be stored to track the nutritional intake of the user's daily meals.
 
-Theme : Healthcare
+Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
 ## Team Member
 
@@ -27,6 +27,45 @@ Theme : Healthcare
 
 </div>
 
+## Machine Learning Learning Path
+<h3>Steps To Generate Model</h3>
+1.
+2.
+3.
+
+<h3>Featured Technologies</h3>
+<li><a href="https://www.tensorflow.org/">TensorFlow</a></li>
+<li><a href="https://colab.research.google.com/">Google Collab</a></li>
+
+<h3>Dataset</h3>
+<li><a href="https://drive.google.com/file/d/1B311xmZPac-LeUwJwfn-qODAzAbdSLAS/view">Final Dataset</a></li>
+
+<h3>Models Accuracy and Loss</h3>
+1. Train and Val Accuracy
+  <img src="https://www.freepik.com/free-photo/rectangle-gold-frame-paper_11302768.htm#fromView=keyword&page=1&position=2&uuid=3d7c2aa4-0821-4f66-b819-ec7af2772b14">
+
+2. Test Accuracy
+<img src="https://www.freepik.com/free-photo/rectangle-gold-frame-paper_11302768.htm#fromView=keyword&page=1&position=2&uuid=3d7c2aa4-0821-4f66-b819-ec7af2772b14">
+
+## Android Development Learning Path
+<h3>Steps To Clone Project</h3>
+<ol>
+  <li>Clone this repository to your device</li>
+  <li>Open In Android studio</li>
+  <li>Build Project</li>
+  <li>Run and debugging the project on youR AVD emulator</li>
+</ol>
+
+<h3>Featured Technologies</h3>
+<li><a href="https://kotlinlang.org/">Kotlin</a></li>
+<li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
+<li><a href="https://developer.android.com/jetpack">Android Jetpack</a></li>
+<li><a href="https://junit.org/junit5/">JUnit</a></li>
+
+<h3>ScreenShoot Application</h3>
+<ol>
+  <li>SplashScreen & OnBoarding Page</li>
+</ol>
 ## Application Result
 <div align="center">
   <img src="" alt="Result App" style="width: 100%;">
