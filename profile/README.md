@@ -29,9 +29,12 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 
 ## Machine Learning Learning Path
 <h3>Steps To Generate Model</h3>
-1.
-2.
-3.
+<ol>
+  <li>test</li>
+  <li>test</li>
+  <li>test</li>
+  <li>test</li>
+</ol>
 
 <h3>Featured Technologies</h3>
 <li><a href="https://www.tensorflow.org/">TensorFlow</a></li>
@@ -64,8 +67,10 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 
 <h3>ScreenShoot Application</h3>
 <ol>
-  <li>SplashScreen & OnBoarding Page</li>
+  <li>SplashScreen Page</li>
+  
 </ol>
+<img src"https://github.com/FatTrack/image/blob/74ddf58fbe15beac0b03551a9f70d8c7e8954165/Screenshot_20241208_223509_FatTrack.jpg">
 ## Application Result
 <div align="center">
   <img src="" alt="Result App" style="width: 100%;">
