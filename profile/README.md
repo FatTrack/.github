@@ -70,6 +70,8 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
   <li>SplashScreen Page</li>
   
 </ol>
+![Screenshot_20241208_223509_FatTrack](https://github.com/user-attachments/assets/8fac90f9-d684-4e31-be76-463bc1db138c)
+
 <img src"https://github.com/FatTrack/image/blob/74ddf58fbe15beac0b03551a9f70d8c7e8954165/Screenshot_20241208_223509_FatTrack.jpg">
 ## Application Result
 <div align="center">
