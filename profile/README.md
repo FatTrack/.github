@@ -67,12 +67,25 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 
 <h3>ScreenShoot Application</h3>
 <ol>
-  <li>SplashScreen Page</li>
-  
+  <li>SplashScreen</li>
+  <img src="https://github.com/user-attachments/assets/4d719008-7b39-425d-b055-d565c21c6e62" width="120px">
+  <li>SignIn & SignUp Page</li>
+  <img src="https://github.com/user-attachments/assets/9eb4e217-7599-40a2-9ca1-0258ed625b22" width="120px">
+  <img src="https://github.com/user-attachments/assets/a6f86785-63b8-48c0-8a78-042da99cbfbb" width="120px">
+  <li>Home Page & Article Page</li>
+  <img src="https://github.com/user-attachments/assets/dd54c3b2-7143-46a7-b8ce-79ea506c83ce" width="120px">
+  <img src="https://github.com/user-attachments/assets/0a834332-fc7d-4712-b37f-8e6b374e3014" width="120px">
+  <li>Predict image & Search By name Page</li>
+  <img src="https://github.com/user-attachments/assets/819196db-30c8-4ca5-8e41-aaa96822c255" width="120px">
+  <img src="https://github.com/user-attachments/assets/ebf76611-ea00-4330-bd7c-eaf3489920e8" width="120px">
+  <li>Profile Page & Forgot Password page</li>
+  <img src="https://github.com/user-attachments/assets/2272a93c-7988-45bc-b9e0-a3fd8604a50b" width="120px">
+  <img src="https://github.com/user-attachments/assets/a4047488-1f97-4792-8d5c-3f0e5ca82c1c" width="120px">
+  <li>Dashboard Daily & Dashboard Weekly Page</li>
+  <img src="https://github.com/user-attachments/assets/3a9c67dd-e04b-4e90-9861-f65f2319d7f7" width="120px">
+  <img src="https://github.com/user-attachments/assets/af92ac93-cdbe-467d-bfc1-cb37267de0de" width="120px">
 </ol>
-![Screenshot_20241208_223509_FatTrack](https://github.com/user-attachments/assets/8fac90f9-d684-4e31-be76-463bc1db138c)
 
-<img src"https://github.com/FatTrack/image/blob/74ddf58fbe15beac0b03551a9f70d8c7e8954165/Screenshot_20241208_223509_FatTrack.jpg">
 ## Application Result
 <div align="center">
   <img src="" alt="Result App" style="width: 100%;">
