@@ -44,11 +44,12 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 <li><a href="https://drive.google.com/file/d/1B311xmZPac-LeUwJwfn-qODAzAbdSLAS/view">Final Dataset</a></li>
 
 <h3>Models Accuracy and Loss</h3>
-1. Train and Val Accuracy
-  <img src="https://www.freepik.com/free-photo/rectangle-gold-frame-paper_11302768.htm#fromView=keyword&page=1&position=2&uuid=3d7c2aa4-0821-4f66-b819-ec7af2772b14">
-
-2. Test Accuracy
-<img src="https://www.freepik.com/free-photo/rectangle-gold-frame-paper_11302768.htm#fromView=keyword&page=1&position=2&uuid=3d7c2aa4-0821-4f66-b819-ec7af2772b14">
+<ol>
+  <li>Train and Val Loss (train 0.23 and val 0.42)</li>
+  <img src="https://github.com/user-attachments/assets/c0b265b9-503a-4bfd-ac69-cb2daaa29fe7" width="400px">
+  <li>Train and Val Accuracy (train > 98 and val > 92)</li>
+  <img src="https://github.com/user-attachments/assets/f6479580-4317-4d84-a172-16178c7976dd" width="400px">
+</ol>
 
 ## Android Development Learning Path
 <h3>Steps To Clone Project</h3>
@@ -86,10 +87,31 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
   <img src="https://github.com/user-attachments/assets/af92ac93-cdbe-467d-bfc1-cb37267de0de" width="120px">
 </ol>
 
-## Application Result
-<div align="center">
-  <img src="" alt="Result App" style="width: 100%;">
-</div>
+## Cloud Computing Learning Path
+<h3>Steps To Deploy Backend API To Cloud Run</h3>
+<ol>
+  <li>Clone Project Github Cloud Computing to cloud shell</li>
+  <li>Open Edit in cloud shell</li>
+  <li>Add Service Account key to code</li>
+  <li>Push Kode to Artifact Registry become image dockerfile</li>
+  <li>Open Cloud Run</li>
+  <li>Set Image From Artifact Registry</li>
+  <li>Set Region</li>
+  <li>Set Memory And CPU</li>
+  <li>Set Port to 3000(Backend) and 8080(Machine Learning API)</li>
+  <li>Set Request time out to 600</li>
+  <li>And Deploy!</li>
+</ol>
+
+<h3>Cloud Architecture</h3>
+<img src="https://github.com/user-attachments/assets/942ba658-1e5f-4799-9d1d-2a28fc985c9f" width="620px">
+
+<h3>Featured Technologies</h3>
+<li><a href="https://cloud.google.com/?hl=en">Google Cloud Platform</a></li>
+<li><a href="https://firebase.google.com/">Firebase</a></li>
+<li><a href="https://fastapi.tiangolo.com/">FastAPI</a></li>
+<li><a href="https://nodejs.org/en">Node JS</a></li>
+<li><a href="https://hapi.dev/">Hapi JS</a></li>
 
 ## Project Documentation
 
@@ -97,5 +119,5 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
     - [Machine Learning](https://github.com/FatTrack/Machine-Learning)
     - [Cloud Computing](https://github.com/FatTrack/Cloud-Computing)
     - [Android](https://github.com/FatTrack/Mobile-Development)
-2. You can download Fat Track apps [here]()
+2. You can download Fat Track apps [here](https://drive.google.com/file/d/1waEaMWZ1WkcRzu2SZQ4PRAKg5w10bSjs/view?usp=sharing)
 3. To see [application demo video]()
