@@ -47,7 +47,7 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 <ol>
   <li>Train and Val Loss (train 0.23 and val 0.42)</li>
   <img src="https://github.com/user-attachments/assets/c0b265b9-503a-4bfd-ac69-cb2daaa29fe7" width="400px">
-  <li>Train and Val Accuracy (train > 98 and val > 92)</li>
+  <li>Train and Val Accuracy (train > 89 and val > 88)</li>
   <img src="https://github.com/user-attachments/assets/f6479580-4317-4d84-a172-16178c7976dd" width="400px">
 </ol>
 
