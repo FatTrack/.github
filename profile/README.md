@@ -30,10 +30,10 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 ## Machine Learning Learning Path
 <h3>Steps To Generate Model</h3>
 <ol>
-  <li>test</li>
-  <li>test</li>
-  <li>test</li>
-  <li>test</li>
+  <li>Download the Notebook</li>
+  <li>Import to colab</li>
+  <li>Run all</li>
+  <li>Save the model or use model that automaticly saved via Model Checkpoint ( the Fine-tuned One)</li>
 </ol>
 
 <h3>Featured Technologies</h3>
