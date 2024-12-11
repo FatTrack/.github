@@ -56,8 +56,8 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 <ol>
   <li>Clone this repository to your device</li>
   <li>Open In Android studio</li>
-  <li>Build Project</li>
-  <li>Run and debugging the project on youR AVD emulator</li>
+  <li>Build Project Sync Gradle</li>
+  <li>Run and debugging the project on your emulator</li>
 </ol>
 
 <h3>Featured Technologies</h3>
