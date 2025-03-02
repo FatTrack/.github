@@ -22,7 +22,7 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 | C304B4KY2321 | M. Iqbal Nazwan Wijaya | Cloud Computing | [@Iqbalenter](https://github.com/Iqbalenter) | Active |
 | C528B4KY2733 | Muhamad Aqlifa Ikramulah | Cloud Computing | [@ikramcodeee](https://github.com/ikramcodeee) | Active |
 | M211B4KY0204 | Ahmad Ferdiansyah | Machine Learning | [@syamers24](https://github.com/syamers24) | Active |
-| M284B4KX1925 | Ikko Cahya Awinata | Machine Learning | [@Mamialezatos](https://github.com/ikkocahyaawinata) | Active |
+| M284B4KX1925 | Ikko Cahya Awinata | Machine Learning | [@Ikkoawinataaa](https://github.com/ikkoawinataaa) | Active |
 | M319B4KY0637 | Arif Adrian | Machine Learning | [@Arif4dr14n](https://github.com/Arif4dr14n) | Active |
 
 </div>
